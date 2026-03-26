@@ -44,3 +44,5 @@ National Institute for Basic Biology, Japan
 ## Enjoy !!!
 
 ![Example 7x3](./Google_Tabby_Cat2b.png)
+
+![Example 7x3](./Google_Tabby_Cat3.png)
